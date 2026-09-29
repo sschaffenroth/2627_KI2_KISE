@@ -1,18 +1,10 @@
 # DS 02 — Hausaufgabe
 
-**Das Bild als Datenstruktur · bis Di, 06.10.2026**
-
-*Lesefassung. Die Vorlage zum Ausfüllen bekommen Sie im Unterricht auf Papier — hier sind die Schreiblinien entfernt.*
-
-Etwa 30 Minuten, in Colab oder am eigenen Rechner.
-
 ---
 
 ## Eure Werkzeugkiste
 
-Ab DS 03 ladet, prüft und verkleinert ihr in jeder Stunde Bilder. Statt die Zeilen jedes Mal
-neu zu schreiben, baut ihr euch jetzt vier Funktionen. Die Gerüste stehen am Ende von
-`05_bildwerkstatt.py`, zusammen mit einer kleinen Testmatrix `MATRIX`. Alles, was ihr dafür
+Baut euch jetzt vier Funktionen. Alles, was ihr dafür
 braucht, kennt ihr aus dieser Stunde; die Befehle stehen im Spickzettel unter „Hausaufgabe".
 
 Schreibt jeweils eure Zeilen statt `pass` hinein und testet mit den Zeilen darunter.
