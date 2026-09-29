@@ -38,23 +38,5 @@ Macht aus einem beliebigen Foto einen Netz-Eingang: das größtmögliche Quadrat
 Test: `netz_eingang(bild).shape` muss `(224, 224, 3)` ergeben,
 `netz_eingang(bild, grau=True).shape` muss `(224, 224)` ergeben.
 
-## 4 — `helligkeitsklassen(g)`
-
-Teilt die Grauwerte eines Bildes in acht Klassen ein — 0 bis 31, 32 bis 63, … 224 bis 255 —
-und zählt, wie viele Pixel in jede Klasse fallen. Gibt eine Liste mit acht Anzahlen zurück.
-
-> **Tipp:** `g // 32` macht aus jedem Grauwert seine Klassennummer 0 bis 7 — derselbe Trick
-> wie bei der Bittiefe. `(klasse == 3).sum()` zählt, wie viele Pixel in Klasse 3 liegen.
-> Eine `for`-Schleife über `range(8)` erledigt den Rest.
-
-Test: `helligkeitsklassen(MATRIX)` — die acht Zahlen müssen zusammen **64** ergeben.
-
-Tragt das Ergebnis ein und zeichnet es mit `plt.bar(range(8), anzahlen)` als Balkendiagramm:
-
-| Klasse | 0–31 | 32–63 | 64–95 | 96–127 | 128–159 | 160–191 | 192–223 | 224–255 |
-|---|---|---|---|---|---|---|---|---|
-| Anzahl | | | | | | | | |
-
-Wo im Diagramm liegt der Hintergrund, wo das Objekt? Ein Satz:
 
 ---
