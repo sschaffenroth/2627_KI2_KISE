@@ -2,8 +2,6 @@
 
 **Das Bild als Datenstruktur · 29.09.2026**
 
-*Lesefassung. Die Vorlage zum Ausfüllen bekommen Sie im Unterricht auf Papier — hier sind die Schreiblinien entfernt.*
-
 > **Die Frage der Stunde:** Das Netz nimmt 224 × 224 × 3 = 150 528 Zahlen. Euer Foto hat Millionen. **Was werft ihr weg — und was kostet es euch?**
 
 ---
