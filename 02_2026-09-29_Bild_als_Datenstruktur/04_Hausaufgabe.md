@@ -58,14 +58,3 @@ Tragt das Ergebnis ein und zeichnet es mit `plt.bar(range(8), anzahlen)` als Bal
 Wo im Diagramm liegt der Hintergrund, wo das Objekt? Ein Satz:
 
 ---
-
-**Abgabeform:** das Skript mit den vier Funktionen gespeichert mitbringen (Colab oder
-USB-Stick), dieses Blatt mit der Tabelle ausgefüllt.
-
-**Wozu das gebraucht wird:** Die vier Funktionen benutzt ihr ab DS 03 in jeder Stunde. Und
-das Balkendiagramm aus Aufgabe 4 hat einen Namen, den ihr noch nicht kennt — DS 03 beginnt
-damit.
-
-> **Und nicht vergessen: Bauteil mitbringen.** Am 06.10. nimmt jedes Team sein Bauteil
-> unter vier Beleuchtungen auf. Ohne Bauteil keine Serie — und die Serie wird bis zum
-> 22. Dezember viermal gebraucht.
