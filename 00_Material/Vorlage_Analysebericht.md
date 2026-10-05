@@ -37,8 +37,8 @@ Er ist kein Protokoll und keine Zusammenfassung des Unterrichts. Er ist eine
 | Bilder | Screenshots und Aufnahmen gehören hinein, mit **Bildunterschrift** |
 | Sprache | Deutsch; Fachbegriffe englisch, wo sie so heißen |
 
-Ein Bericht ohne Zahlen wird nicht angenommen. Die Zahlen habt ihr — sie stehen in eurem
-Aufnahmeprotokoll aus DS 03 und in eurer Trefferbilanz aus DS 06.
+Ein Bericht ohne Zahlen wird nicht angenommen. Die Zahlen habt ihr — sie stehen in eurer
+Kennwerttabelle aus DS 03 und in eurer Trefferbilanz aus DS 06.
 
 ---
 

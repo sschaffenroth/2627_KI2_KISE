@@ -9,6 +9,10 @@
 Von einer Aufnahme eines hellen Bauteils auf dunklem Untergrund wurde das Histogramm gemessen.
 Das Bild hat **500 × 500 = 250 000 Pixel**. Die Werte sind zu 16 Klassen zusammengefasst:
 
+![Histogramm der Aufnahme mit 16 Klassen](04_Hausaufgabe_Histogramm.png)
+
+Die genauen Zahlen:
+
 | Klasse | Anzahl Pixel | | Klasse | Anzahl Pixel |
 |---|---|---|---|---|
 | 0 – 15 | 120 | | 128 – 143 | 4 900 |
@@ -24,9 +28,7 @@ Das Bild hat **500 × 500 = 250 000 Pixel**. Die Werte sind zu 16 Klassen zusamm
 
 ---
 
-## a) Zeichnen und ablesen
-
-Zeichnet das Histogramm als Balkendiagramm (16 Balken, y-Achse bis 45 000).
+## a) Ablesen
 
 **Talgrund** (die Klasse mit den wenigsten Pixeln zwischen den Bergen):
 … bis …, mit … Pixeln
@@ -91,7 +93,7 @@ Warum ist es dort **schwerer**, einen guten Schwellwert zu finden? Zwei Sätze.
 
 ---
 
-**Abgabeform:** dieses Blatt, ausgefüllt, am 13.10. mitbringen.
+**Abgabe:** eure Ergebnisse am 13.10. mitbringen.
 
 **Wozu das gebraucht wird:** DS 04 beginnt damit, dass alle Schwellwerte der Klasse
 nebeneinander an die Tafel kommen. Sie werden auseinanderliegen, obwohl alle dasselbe
