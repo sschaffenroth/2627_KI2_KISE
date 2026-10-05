@@ -2,10 +2,6 @@
 
 **Histogramm: Taugt die Aufnahme? · 06.10.2026**
 
-*Lesefassung. Die Vorlage zum Ausfüllen bekommen Sie im Unterricht auf Papier — hier sind die Schreiblinien entfernt.*
-
-> **Die Frage der Stunde:** Woran merkt ein Programm, dass eine Aufnahme nichts taugt?
-
 ---
 
 ## Vorbereitung — Python einrichten
