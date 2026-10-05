@@ -2,10 +2,6 @@
 
 **Histogramm: Taugt die Aufnahme? · bis Di, 13.10.2026**
 
-*Lesefassung. Die Vorlage zum Ausfüllen bekommen Sie im Unterricht auf Papier — hier sind die Schreiblinien entfernt.*
-
-Etwa 25 Minuten. **Ohne Rechner.** Stift, Lineal, Taschenrechner.
-
 ---
 
 ## Das Histogramm
