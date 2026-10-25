@@ -3,7 +3,6 @@
 | Datei | Was es ist |
 |---|---|
 | `02_Arbeitsblatt.md` | Arbeitsblatt der Stunde |
-| `04_Hausaufgabe.md` | Hausaufgabe |
 | `40_Material_Spickzettel_Merkmale.md` | Werkzeugkasten Merkmale DS 06 |
 | `41_Material_Uebung_Kurzarbeit.md` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
 | `41_Material_Uebung_Kurzarbeit_A2.png` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
