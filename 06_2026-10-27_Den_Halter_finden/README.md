@@ -2,6 +2,7 @@
 
 | Datei | Was es ist |
 |---|---|
+| `01_Folien_Merkmale.pptx` | Foliensatz der Stunde |
 | `02_Arbeitsblatt.md` | Arbeitsblatt der Stunde |
 | `40_Material_Spickzettel_Merkmale.md` | Werkzeugkasten Merkmale DS 06 |
 | `41_Material_Uebung_Kurzarbeit.md` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
