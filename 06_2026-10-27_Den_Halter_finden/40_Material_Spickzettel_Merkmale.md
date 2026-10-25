@@ -53,8 +53,8 @@ konturen, _ = cv2.findContours(maske, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE
 | Werkzeug | Was es tut |
 |---|---|
 | `len(konturen)` | wie viele Umrisse es sind |
-| `cv2.contourArea(k)` | die Fläche, die der Umriss `k` einschließt, in Pixeln |
 | `groesster = max(konturen, key=cv2.contourArea)` | der Umriss mit der größten Fläche: `max` misst mit `cv2.contourArea` jeden Umriss der Liste und gibt den größten zurück |
+| `cv2.contourArea(groesster)` | die Fläche, die ein Umriss einschließt, in Pixeln |
 
 ## Ins Farbfoto zeichnen — neu
 
@@ -70,9 +70,28 @@ cv2.drawContours(farbe, [groesster], -1, (0, 128, 255), 8)
 | `(0, 128, 255)` | die Farbe als Blau, Grün, Rot: Orange |
 | `8` | die Linienstärke in Pixeln |
 
-| Werkzeug | Was es tut |
+### Ein Farbfoto anzeigen
+
+```python
+plt.imshow(cv2.cvtColor(farbe, cv2.COLOR_BGR2RGB))
+plt.show()
+```
+
+In der ersten Zeile stecken **zwei Befehle in einem**. Python rechnet von innen nach außen:
+
+| Teil des Befehls | Bedeutung |
 |---|---|
-| `plt.imshow(cv2.cvtColor(farbe, cv2.COLOR_BGR2RGB))` | zeigt ein Farbbild in den richtigen Farben an — matplotlib erwartet Rot, Grün, Blau |
+| `cv2.cvtColor(farbe, cv2.COLOR_BGR2RGB)` | **1. Farben tauschen:** macht aus Blau, Grün, Rot die Reihenfolge Rot, Grün, Blau — so erwartet sie matplotlib. Das Ergebnis ist ein neues Bild, `farbe` selbst bleibt, wie es war |
+| `plt.imshow(…)` | **2. Anzeigen:** zeichnet dieses getauschte Bild |
+
+Hier steht **kein** `cmap="gray"`, und das ist richtig so: Ein Farbbild hat für jeden Pixel drei Werte und bringt seine Farben selbst mit. `cmap` und `vmin`/`vmax` braucht nur ein Graubild oder eine Maske mit einem Wert je Pixel — bei einem Farbbild übergeht matplotlib sie.
+
+Wer es lieber in zwei Schritten schreibt:
+
+```python
+rgb = cv2.cvtColor(farbe, cv2.COLOR_BGR2RGB)
+plt.imshow(rgb)
+```
 
 Der Umriss liegt nur dann richtig, wenn Farbfoto und Maske **denselben** Ausschnitt haben.
 
@@ -87,12 +106,6 @@ Der Umriss liegt nur dann richtig, wenn Farbfoto und Maske **denselben** Ausschn
 | `plt.title("Text")` | eine Überschrift über das Feld |
 | `str(zahl)` | macht aus einer Zahl Text, zum Beispiel für `plt.title(bildpfad[i - 1] + "  " + str(flaeche))` |
 | `print(bildpfad[i - 1], schwelle, len(konturen), flaeche)` | gibt mehrere Werte in einer Zeile aus |
-
-## Für die Kür
-
-| Werkzeug | Was es tut |
-|---|---|
-| `_, maske = cv2.threshold(glatt, SCHWELLE, 255, cv2.THRESH_BINARY)` | eine Maske mit **fester** Schwelle: eure Zahl an der Stelle der `0`, `THRESH_OTSU` fällt weg |
 
 ---
 
