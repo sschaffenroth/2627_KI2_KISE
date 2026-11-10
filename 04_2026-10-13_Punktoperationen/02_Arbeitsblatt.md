@@ -159,7 +159,7 @@ Wählt eine Aufnahme, bei der es schiefgeht. Was zeigt ihr Histogramm, das bei `
 
 > Eine dunkle Aufnahme wurde mit drei Punktoperationen bearbeitet. Oben stehen die drei Kennlinien A, B und C, unten die drei Histogramme danach.
 
-![Drei Kennlinien A, B, C, das Histogramm vorher und drei Histogramme danach](02_Arbeitsblatt_Kennlinien.png)
+![Drei Kennlinien A, B, C, das Histogramm vorher und drei Histogramme danach](bilder/02_Arbeitsblatt_Kennlinien.png)
 
 a) Der hellere Berg liegt vorher beim Grauwert 48. Wo liegt er nach A, B und C?
 

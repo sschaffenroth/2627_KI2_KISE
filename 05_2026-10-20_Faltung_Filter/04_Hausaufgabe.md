@@ -8,7 +8,7 @@
 
 Ein Ausschnitt von 5 × 5 Pixeln: links dunkler Untergrund, rechts das helle Bauteil. Bei (y=3, x=1) liegt ein Reflex im Untergrund.
 
-![Ausschnitt von 5 mal 5 Pixeln: links Werte 20, rechts Werte 180, bei y=3, x=1 der Wert 200](04_Hausaufgabe_Feld.png)
+![Ausschnitt von 5 mal 5 Pixeln: links Werte 20, rechts Werte 180, bei y=3, x=1 der Wert 200](bilder/04_Hausaufgabe_Feld.png)
 
 Die beiden Kerne aus dem Unterricht:
 
@@ -52,7 +52,7 @@ Kern P                   Kern Q              Kern R
 
 Jeder Kern wurde auf denselben Ausschnitt eines Halters angewendet:
 
-![Drei Ergebnisbilder 1, 2 und 3 desselben Ausschnitts](04_Hausaufgabe_Bilder.png)
+![Drei Ergebnisbilder 1, 2 und 3 desselben Ausschnitts](bilder/04_Hausaufgabe_Bilder.png)
 
 d) Bestimmt die Gewichtssumme jedes Kerns.
 

@@ -8,7 +8,7 @@
 
 Ein helles Bauteil liegt auf einem dunklen Untergrund. Daneben steht das Histogramm der Aufnahme.
 
-![Aufnahme eines hellen Halters auf dunklem Untergrund, daneben das Histogramm](04_Hausaufgabe_Histogramm.png)
+![Aufnahme eines hellen Halters auf dunklem Untergrund, daneben das Histogramm](bilder/04_Hausaufgabe_Histogramm.png)
 
 ---
 
@@ -38,7 +38,7 @@ Warum gerade dort?
 
 Dieselbe Aufnahme, viermal in Schwarz und Weiß geteilt — mit den Schwellwerten **90, 150, 170 und 230**, in anderer Reihenfolge.
 
-![Vier Schwarz-Weiß-Bilder A bis D derselben Aufnahme](04_Hausaufgabe_Schwellwerte.png)
+![Vier Schwarz-Weiß-Bilder A bis D derselben Aufnahme](bilder/04_Hausaufgabe_Schwellwerte.png)
 
 Ordnet zu:
 
@@ -54,7 +54,7 @@ Zwei Bilder sehen fast gleich aus. Wo im Histogramm liegen ihre Schwellwerte —
 
 ## d) Dasselbe Bauteil, dunkel aufgenommen
 
-![Dieselbe Aufnahme bei wenig Licht, daneben das Histogramm](04_Hausaufgabe_Dunkel.png)
+![Dieselbe Aufnahme bei wenig Licht, daneben das Histogramm](bilder/04_Hausaufgabe_Dunkel.png)
 
 Was würde euer Schwellwert aus b) aus dieser Aufnahme machen?
 

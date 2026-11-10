@@ -4,10 +4,10 @@
 |---|---|
 | `01_Folien_Faltung.pptx` | Foliensatz der Stunde (mit dem Rest der DS 04) |
 | `02_Arbeitsblatt.md` | Arbeitsblatt der Stunde |
-| `02_Arbeitsblatt_Kerne.png` | Bild zum Arbeitsblatt |
+| `bilder/02_Arbeitsblatt_Kerne.png` | Bild zum Arbeitsblatt |
 | `04_Hausaufgabe.md` | Hausaufgabe |
-| `04_Hausaufgabe_Bilder.png` | Bild zur Hausaufgabe |
-| `04_Hausaufgabe_Feld.png` | Bild zur Hausaufgabe |
+| `bilder/04_Hausaufgabe_Bilder.png` | Bild zur Hausaufgabe |
+| `bilder/04_Hausaufgabe_Feld.png` | Bild zur Hausaufgabe |
 | `40_Material_Spickzettel_Faltung.md` | Werkzeugkasten Faltung DS 05 |
 
 Wer am Rechner mitschreiben will, legt eine **eigene Datei** daneben an —

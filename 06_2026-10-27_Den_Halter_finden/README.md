@@ -6,8 +6,8 @@
 | `02_Arbeitsblatt.md` | Arbeitsblatt der Stunde |
 | `40_Material_Spickzettel_Merkmale.md` | Werkzeugkasten Merkmale DS 06 |
 | `41_Material_Uebung_Kurzarbeit.md` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
-| `41_Material_Uebung_Kurzarbeit_A2.png` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
-| `41_Material_Uebung_Kurzarbeit_A3.png` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
+| `bilder/41_Material_Uebung_Kurzarbeit_A2.png` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
+| `bilder/41_Material_Uebung_Kurzarbeit_A3.png` | Übung zur Kurzarbeit — Lösungen am Ende zum Aufklappen |
 | `42_Material_Zusammenfassung_Kurzarbeit.md` | Zusammenfassung zur Kurzarbeit |
 
 Wer am Rechner mitschreiben will, legt eine **eigene Datei** daneben an —

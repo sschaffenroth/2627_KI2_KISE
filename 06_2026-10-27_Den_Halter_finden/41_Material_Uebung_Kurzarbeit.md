@@ -33,7 +33,7 @@ d) Ein Team nimmt stattdessen *B* = 6 · *A* + 4 und speichert das Ergebnis als 
 
 ## Aufgabe 2 — Eine Schwelle für das ganze Bild (6 P)
 
-![](41_Material_Uebung_Kurzarbeit_A2.png)
+![](bilder/41_Material_Uebung_Kurzarbeit_A2.png)
 
 a) Bei welcher der beiden Aufnahmen liefert Otsu eine brauchbare Maske (Bauteil weiß, Untergrund schwarz)? Begründen Sie mit dem Histogramm. **(2 P)**
 
@@ -58,7 +58,7 @@ c) Ein Team bearbeitet die Aufnahme vorher mit der Punktoperation neu = 0,5 · a
 
 Gegeben ist dieser Bildausschnitt:
 
-![](41_Material_Uebung_Kurzarbeit_A3.png)
+![](bilder/41_Material_Uebung_Kurzarbeit_A3.png)
 
 a) Berechnen Sie den neuen Wert an der Position **(y=1, x=1)** für den Mittelwertkern. Rechenweg angeben. **(3 P)**
 

@@ -167,7 +167,7 @@ Unsere Umgebung: … × … Anteil weiß: … %
 
 > Drei Kerne wurden auf denselben Ausschnitt angewendet. Die Bilder A, B und C zeigen das Ergebnis.
 
-![Ein Ausschnitt mit Bohrung, drei Ergebnisbilder A, B, C und drei Kerne](02_Arbeitsblatt_Kerne.png)
+![Ein Ausschnitt mit Bohrung, drei Ergebnisbilder A, B, C und drei Kerne](bilder/02_Arbeitsblatt_Kerne.png)
 
 a) Ordnet jedem Bild seinen Kern zu und begründet mit **einem** Merkmal des Bildes.
 

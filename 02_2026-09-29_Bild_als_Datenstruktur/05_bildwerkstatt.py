@@ -39,7 +39,7 @@ import matplotlib.pyplot as plt
 #   lokal:  mit r vor dem Pfad                   ->  r"C:\Users\...\bauteil.jpg"
 #   Kein eigenes Foto? Das Testbild sys02_bauteil.jpg liegt im Repository neben
 #   diesem Skript. In Colab holt es diese Zeile (in eine eigene Zelle):
-#   !wget -q https://raw.githubusercontent.com/sschaffenroth/2627_KI2_KISE/main/02_2026-09-29_Bild_als_Datenstruktur/sys02_bauteil.jpg
+#   !wget -q https://raw.githubusercontent.com/sschaffenroth/2627_KI2_KISE/main/02_2026-09-29_Bild_als_Datenstruktur/bilder/sys02_bauteil.jpg
 BILDPFAD = "/content/sys02_bauteil.jpg"
 
 KANTE = 224              # Eingang des Netzes: 224 x 224. Fest vorgegeben.
