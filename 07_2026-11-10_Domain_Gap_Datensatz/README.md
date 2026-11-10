@@ -3,11 +3,12 @@
 | Datei | Was es ist |
 |---|---|
 | `02_Arbeitsblatt.md` | Arbeitsblatt der Stunde |
-| `02_Arbeitsblatt_Datensatz_A.png` | Bild zum Arbeitsblatt |
-| `02_Arbeitsblatt_Datensatz_B.png` | Bild zum Arbeitsblatt |
-| `02_Arbeitsblatt_Datensatz_C.png` | Bild zum Arbeitsblatt |
-| `02_Arbeitsblatt_Datensatz_D.png` | Bild zum Arbeitsblatt |
+| `bilder/02_Arbeitsblatt_Datensatz_A.png` | Bild zum Arbeitsblatt |
+| `bilder/02_Arbeitsblatt_Datensatz_B.png` | Bild zum Arbeitsblatt |
+| `bilder/02_Arbeitsblatt_Datensatz_C.png` | Bild zum Arbeitsblatt |
+| `bilder/02_Arbeitsblatt_Datensatz_D.png` | Bild zum Arbeitsblatt |
 | `04_Hausaufgabe.md` | Hausaufgabe |
+| `05_Sicherung_Tafel.pdf` | Tafelbilder der Stunde (Sicherung) |
 
 Wer am Rechner mitschreiben will, legt eine **eigene Datei** daneben an —
 etwa `meine_loesung.md`. Die Dateien hier werden bei jedem Push

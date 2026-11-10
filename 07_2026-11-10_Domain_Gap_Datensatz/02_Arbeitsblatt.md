@@ -12,15 +12,15 @@ Alle Zahnräder auf diesem Blatt sind gerechnet. „Fehlerhaft“ heißt: Ein Za
 
 Jeder der Datensätze B, C und D hat **genau einen** Fehler. Datensatz A haben wir gemeinsam besprochen, er steht hier als Beispiel.
 
-![Datensatz A](02_Arbeitsblatt_Datensatz_A.png)
+![Datensatz A](bilder/02_Arbeitsblatt_Datensatz_A.png)
 
 **Beispiel A:** Alle guten Zahnräder liegen auf dem Band, alle fehlerhaften auf Holz. Das Modell lernt den Untergrund: Holz heißt „fehlerhaft“.
 
-![Datensatz B](02_Arbeitsblatt_Datensatz_B.png)
+![Datensatz B](bilder/02_Arbeitsblatt_Datensatz_B.png)
 
-![Datensatz C](02_Arbeitsblatt_Datensatz_C.png)
+![Datensatz C](bilder/02_Arbeitsblatt_Datensatz_C.png)
 
-![Datensatz D](02_Arbeitsblatt_Datensatz_D.png)
+![Datensatz D](bilder/02_Arbeitsblatt_Datensatz_D.png)
 
 **Auftrag 1:** *Was ist jeweils der Fehler im Datensatz? Schickt eure Antwort als Team über „Mitmachen“ am Handy ab, in die Felder „Datensatz B“, „Datensatz C“ und „Datensatz D“: je ein Stichwort oder ein kurzer Satz, höchstens 30 Zeichen.*
 
